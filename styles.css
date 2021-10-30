@@ -1,0 +1,54 @@
+body {
+  text-align: center !important;
+}
+
+h1{
+  color :#fca311;
+}
+
+.projects{
+ padding: 5%;
+ background-color: #e5e5e5;
+}
+
+
+.project-header{
+  background-color: #14213D;
+  padding: 9%;
+}
+.projects p{
+  color: black;
+}
+
+p{
+  color: #e5e5e5;
+}
+
+.card{
+  cursor: pointer;
+}
+
+.card-img-top {
+  height: 13vw;
+  object-fit: cover;
+}
+
+.card-body{
+  height: 12vw;
+
+}
+
+.bottom-container{
+  padding: 50px 0 20px;
+  background-color: #14213D;
+}
+
+.footer-link{
+  padding: 0 1.5%;
+
+}
+
+
+
+
+
